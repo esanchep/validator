@@ -1,5 +1,5 @@
 public class ValidatorException extends RuntimeException {
-    public ValidatorException(String mesage) {
-        super(mesage);
+    public ValidatorException(String message) {
+        super(message);
     }
 }
